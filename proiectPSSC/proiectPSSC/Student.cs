@@ -13,7 +13,7 @@ namespace proiectPSSC
         public PlainText Nume { get; internal set; }
         public Note NoteAct { get; internal set; }
         public Nota NotaEx { get; internal set; }
-        public Nota Media { get; internal set; }
+        public Nota Media { get; internal set; 
 
 
         internal Student(NumarMatricol nrMatricol, PlainText nume)
